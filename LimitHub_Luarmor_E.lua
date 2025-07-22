@@ -1,2 +1,2 @@
-loadstring(game:HttpGet('https://pastefy.app/UC0yTb2b/raw'))()
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/FakeModz/LimitHub/refs/heads/main/LimitHub_Luarmor_P_E.lua')))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/jorgethegreatq/GrowaGarden/refs/heads/main/Delta'))()
+loadstring(game:HttpGet("https://pastefy.app/CFjBOvEA/raw"))()
